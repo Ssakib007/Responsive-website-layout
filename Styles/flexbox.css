@@ -1,0 +1,21 @@
+.container{
+    border: 2px solid salmon;
+    display: flex;
+    justify-content: center;
+    height: 250px;
+    width: 500px;
+    align-items: center;
+    flex-wrap: wrap;
+
+    /* justify content and align item has flex start, flex end, center,
+    space evenly, space between, space around etc */
+    
+    /* flex direction has column, column reverse, row, row-reverse, */
+     
+}
+
+.box{
+    border: 2px dashed blue;
+    width: 100px;
+    height: 100px;
+}
